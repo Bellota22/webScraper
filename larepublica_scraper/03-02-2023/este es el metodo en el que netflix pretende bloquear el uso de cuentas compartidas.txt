@@ -1,0 +1,14 @@
+este es el metodo en el que netflix pretende bloquear el uso de cuentas compartidas
+
+"Usamos información como las direcciones IP, los identificadores de los dispositivos y la actividad de la cuenta de los dispositivos conectados a la cuenta de Netflix", explican
+
+Netflix lleva años luchando para intentar controlar la sangría de usuarios e ingresos que le suponen las cuentas compartidas. Ahora parece que se ha develado cómo pretende la compañía de streaming acabar con esta práctica tan habitual.
+En 2021, una encuesta de LegingTree de la que se hizo eco Variety desvelaba que 40% de los americanos se conectaba a 
+ con una cuenta que no era suya.
+La lucha contra las cuentas compartidas es una bandera para Netflix desde hace tiempo, y ahora en el propio centro de ayuda de la empresa ya parecen los detalles y nos recuerdan que "las personas que no vivan en tu hogar tendrán que usar su propia cuenta para ver Netflix".
+Comprobando las direcciones IP. 
+ pedirá a los dispositivos asociados a la cuenta que se conecten a la red Wi-Fi de tu 'hogar Netflix', abran la aplicación y vean algo al menos una vez cada 31 días. Esto le permitirá ver que los dispositivos están conectados a la misma dirección IP.
+"Usamos información como las direcciones IP, los identificadores de los dispositivos y la actividad de la cuenta de los dispositivos conectados a la cuenta de Netflix", explican.
+Si nos vamos de viaje durante un tiempo prolongado, dicen desde la web, "es posible que ocasionalmente se te pida que verifiques el dispositivo que estás usando. Esto lo hacemos para confirmar que el dispositivo que usa la cuenta tiene autorización para hacerlo."
+A través del teléfono o correo electrónico del titular de la cuenta, con un código de verificación de cuatro dígitos que deberá introducirse en el dispositivo en un plazo de 15 minutos.
+Sobre la posibilidad de cobrar un extra a las cuentas en las que se detecte el uso compartido no permitido, todavía no hay más aclaraciones, aunque este cobro ya se probó en Chile, Costa Rica y Perú, a modo de subcuenta
