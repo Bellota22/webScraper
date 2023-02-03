@@ -10,4 +10,4 @@ We use just
 * Lxml
 
 # Objective
-For learning and ludic porpouse that lead me to gain more web scraping skills
+For learning and ludic porpouse that will lead me to gain more web scraping skills
