@@ -1,4 +1,4 @@
-# webScraper
+# Articles from newspaper
 Simple program to obtain the name of the titles, abstract and body of differents articles from 'www.larepublica.co' in an txt file
 
 # Intro
